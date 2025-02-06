@@ -10,7 +10,7 @@
 - 🔧 Discord bot developer  
 - 🛠️ Community moderator  
 - 💡 Creator of **<span style="color:#00FF00;">Bielzinho</span>** and admin of **<span style="color:#FE6464;">Anastácia™</span>**  
-- 🌐 Building websites as a hobby ([bielb.vercel.app](https://bielb.vercel.app))  
+- 🌐 Building websites as a hobby ([website](https://bielbwebsite.vercel.app/))  
 - 🎨 I love stylish interfaces and modern design  
 
 ---
@@ -60,7 +60,7 @@
   <a href="https://www.youtube.com/@bielb_777">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://bielb.vercel.app">
+  <a href="https://bielbwebsite.vercel.app/">
     <img src="https://img.shields.io/badge/Website-0085FF?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
