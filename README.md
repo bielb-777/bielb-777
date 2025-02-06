@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Olá, eu sou o bielb! 😼</h1>  
+<h1 align="center">🚀 Hello, I'm bielb! 😼</h1>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bielb&color=blue" alt="Profile views" />
@@ -6,20 +6,31 @@
 
 ---
 
-### 👨‍💻 Sobre mim:
-- 🔧 Desenvolvedor de bots no Discord  
-- 💡 Criador do **Bielzinho** e do **Bot Developer Lab**  
-- 🌐 Criando um site de **botlist** e de **filmes**  
-- 🎮 Free Fire player nas horas vagas  
-- 🎨 Gosto de design e interfaces estilosas  
+### 👨‍💻 About Me:
+- 🔧 Discord bot developer  
+- 🛠️ Community moderator  
+- 💡 Creator of **Bielzinho** and **Bot Developer Lab**  
+- 🌐 Building websites as a hobby ([bielb.vercel.app](https://bielb.vercel.app))  
+- 🎨 I love stylish interfaces and modern design  
 
 ---
 
-### 🛠️ Tecnologias que uso:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![BDFD](https://img.shields.io/badge/BDFD-0085FF?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+### 📌 My Bots:
+- 🤖 **Bielzinho** – `1202258028439801967`  
+- 🤖 **Anastácia™** *(By Onex)* – `887987359696683048`  
+
+---
+
+### 🛠️ Technologies I Use:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Aoi.js-00bfff?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/BDFD-0085FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
 ---
 
@@ -34,7 +45,15 @@
 
 ---
 
-### 🌍 Onde me encontrar:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-servidor)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@seu-perfil)
-[![Website](https://img.shields.io/badge/Website-0085FF?style=for-the-badge&logo=vercel&logoColor=white)](https://gato-dgravata.vercel.app)
+### 🌍 Where to Find Me:
+<p align="center">
+  <a href="https://discord.gg/NfQjs6hKpF">
+    <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/@bielb_777">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://bielb.vercel.app">
+    <img src="https://img.shields.io/badge/Website-0085FF?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
