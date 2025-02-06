@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me:
 - 🔧 Discord bot developer  
 - 🛠️ Community moderator  
-- 💡 Creator of **<span style="color:#00FF00;">Bielzinho</span>** and **<span style="color:#FE6464;">Anastácia™</span>**  
+- 💡 Creator of **<span style="color:#00FF00;">Bielzinho</span>** and admin of **<span style="color:#FE6464;">Anastácia™</span>**  
 - 🌐 Building websites as a hobby ([bielb.vercel.app](https://bielb.vercel.app))  
 - 🎨 I love stylish interfaces and modern design  
 
