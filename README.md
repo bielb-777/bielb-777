@@ -15,13 +15,9 @@
 
 ---
 
-### 📌 My Bots:
+### 📌 My Discord Bot:
 - 🤖 **<span style="color:#00FF00;">Bielzinho</span>** – `1202258028439801967`  
   <a href="https://discord.com/oauth2/authorize?client_id=1202258028439801967&scope=bot+applications.commands&permissions=0">
-    <img src="https://img.shields.io/badge/Add%20to%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>  
-- 🤖 **<span style="color:#FE6464;">Anastácia™</span>** *(By Onex)* – `887987359696683048`  
-  <a href="https://discord.com/oauth2/authorize?client_id=887987359696683048&scope=bot+applications.commands&permissions=0">
     <img src="https://img.shields.io/badge/Add%20to%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>  
 
